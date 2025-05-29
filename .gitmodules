@@ -1,0 +1,3 @@
+[submodule "src/renderer"]
+	path = src/renderer
+	url = git@github.com:Zephyruso/zashboard.git
